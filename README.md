@@ -2,7 +2,7 @@
 A simulation of a real-world coffee machine.
 https://hyperskill.org/projects/33
 
-<img src="https://github.com/ishwarjagdale/CoffeeMachine/blob/master/demonstration.gif" width="800" height="400" />
+<img src="https://github.com/ishwarjagdale/CoffeeMachine/blob/master/demonstration.gif" width="640height="324/>
 
 ## Syntax
 ```
