@@ -3,9 +3,11 @@ A simulation of a real-world coffee machine.
 https://hyperskill.org/projects/33
  
 
+
 ## Syntax
 ```
 coffee_machine.py
+```
 
 ## Stages
 **Stage #1 Hello, coffee!**  
